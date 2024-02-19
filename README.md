@@ -14,3 +14,5 @@ button.pack(pady=20)
 
 # Run the Tkinter event loop
 root.mainloop()
+# Run the Tkinter event loop
+root.mainloop()
